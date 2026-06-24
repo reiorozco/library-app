@@ -1,3 +1,34 @@
+<h1 align="center">📚 Library App</h1>
+
+<p align="center">
+  Full-stack library management application built with React, Node/Express and PostgreSQL.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"/>
+</p>
+
+## ✨ Features
+
+- 📖 Manage books and library records (CRUD)
+- 🔗 REST API with Express + Sequelize ORM
+- ✅ Request validation with Joi
+- 🛡️ Security headers with Helmet, logging with Morgan
+- 🗄️ PostgreSQL persistence
+
+## 🛠️ Tech Stack
+
+- **Client:** React (Vite)
+- **Server:** Node.js · Express · Sequelize
+- **Database:** PostgreSQL
+- **Tooling:** Joi · Helmet · Morgan
+
+---
+
 
 ## Setup
 
